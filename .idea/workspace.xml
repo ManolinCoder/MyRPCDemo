@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dbe392f-0593-4860-9b79-1ad749638ab7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/image/RPC01.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/RPC01.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/RPC01.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/rpc-api/target/" />
@@ -22,7 +21,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ReadMe.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -32,11 +31,6 @@
               <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/image/RPC01.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -101,8 +95,8 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1968" />
-    <option name="y" value="271" />
+    <option name="x" value="1986" />
+    <option name="y" value="219" />
     <option name="width" value="1761" />
     <option name="height" value="1060" />
   </component>
@@ -122,6 +116,11 @@
             <path>
               <item name="MyRPCDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyRPCDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyRPCDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyRPCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -213,7 +212,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605438749102</updated>
-      <workItem from="1605438751232" duration="8272000" />
+      <workItem from="1605438751232" duration="8952000" />
     </task>
     <task id="LOCAL-00001" summary="commit project MyRPCDemo">
       <created>1605448163711</created>
@@ -229,14 +228,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605448382462</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit project MyRPCDemo-images and ReadMe.md">
+      <created>1605448997860</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605448997860</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8272000" />
+    <option name="totallyTimeSpent" value="8952000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1968" y="271" width="1761" height="1060" extended-state="0" />
+    <frame x="1986" y="219" width="1761" height="1060" extended-state="0" />
     <layout>
       <window_info id="JRebel" side_tool="true" />
       <window_info id="Image Layers" />
@@ -284,7 +290,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit project -&gt; MyRPCDemo" />
     <MESSAGE value="commit project MyRPCDemo" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit project MyRPCDemo" />
+    <MESSAGE value="commit project MyRPCDemo-images and ReadMe.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit project MyRPCDemo-images and ReadMe.md" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/rpc-api/pom.xml">
@@ -420,6 +427,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/image/RPC01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/ReadMe.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -429,9 +439,6 @@
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/RPC01.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">
