@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.myrpcdemo.rpc.AppTest" time="0.053" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="E:\Code\dubbo\pr\MyRPCDemo\rpc-server\target\test-classes;E:\Code\dubbo\pr\MyRPCDemo\rpc-server\target\classes;D:\repository\repo\junit\junit\4.11\junit-4.11.jar;D:\repository\repo\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\repository\repo\com\myrpcdemo\rpc\rpc-api\1.0-SNAPSHOT\rpc-api-1.0-SNAPSHOT.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\Program Files\Java\jdk1.8.0_202\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\林朝明\AppData\Local\Temp\surefire2428476310365535976\surefirebooter6394214366670388098.jar C:\Users\林朝明\AppData\Local\Temp\surefire2428476310365535976 2020-11-15T19-48-43_048-jvmRun1 surefire8914771039459359912tmp surefire_09164760943632981321tmp"/>
+    <property name="surefire.test.class.path" value="E:\Code\dubbo\pr\MyRPCDemo\rpc-server\target\test-classes;E:\Code\dubbo\pr\MyRPCDemo\rpc-server\target\classes;D:\repository\repo\junit\junit\4.11\junit-4.11.jar;D:\repository\repo\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\repository\repo\com\myrpcdemo\rpc\rpc-api\1.0-SNAPSHOT\rpc-api-1.0-SNAPSHOT.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\林朝明"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="D:\Program Files\Java\jdk1.8.0_202\jre"/>
+    <property name="basedir" value="E:\Code\dubbo\pr\MyRPCDemo\rpc-server"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\林朝明\AppData\Local\Temp\surefire2428476310365535976\surefirebooter6394214366670388098.jar"/>
+    <property name="sun.boot.class.path" value="D:\Program Files\Java\jdk1.8.0_202\jre\lib\resources.jar;D:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar;D:\Program Files\Java\jdk1.8.0_202\jre\lib\sunrsasign.jar;D:\Program Files\Java\jdk1.8.0_202\jre\lib\jsse.jar;D:\Program Files\Java\jdk1.8.0_202\jre\lib\jce.jar;D:\Program Files\Java\jdk1.8.0_202\jre\lib\charsets.jar;D:\Program Files\Java\jdk1.8.0_202\jre\lib\jfr.jar;D:\Program Files\Java\jdk1.8.0_202\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_202-b08"/>
+    <property name="user.name" value="林朝明"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="D:\Program Files\Java\jdk1.8.0_202\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="D:\repository\repo"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\林朝明\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_202"/>
+    <property name="user.dir" value="E:\Code\dubbo\pr\MyRPCDemo\rpc-server"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="idea.version2019.1" value="true"/>
+    <property name="java.library.path" value="D:\Program Files\Java\jdk1.8.0_202\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files (x86)\NetSarang\Xmanager 6\;D:\Program Files(x86)\NetSarang\Xmanager6\Xlpd 6\;D:\Program Files(x86)\NetSarang\Xmanager6\Xftp 6\;D:\Program Files\Python37\Scripts\;D:\Program Files\Python37\;.;D:\Program Files\Java\jdk1.8.0_202\bin;D:\Program Files\Java\jdk1.8.0_202\jre\bin;D:\Program Files(x86)\Microsoft Visual Studio 12.0\VC\bin;D:\Program Files(x86)\Microsoft Visual Studio 12.0\Common7\Tools;D:\Program Files(x86)\Microsoft Visual Studio 12.0\Common7\IDE;D:\Program Files\OPNET\14.5.A\sys\pc_amd_win64\bin;C:\windows\system32;C:\windows;C:\windows\system32\wbem;D:\Program Files\Microsoft SQL Server\120\DTS\Binn\;D:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;D:\Program Files\Microsoft SQL Server\120\Tools\Binn\;D:\Program Files(x86)\Android\android-sdk\tools;D:\Program Files(x86)\Android\android-sdk\platform-tools;D:\Program Files(x86)\Android\android-sdk\build-tools;D:\Program Files\Git\Git\cmd;D:\MySQL\mysql-5.7.28-winx64\bin;&quot;D:\Program Files\apache-tomcat-8.5.47\lib;D:\Program Files\apache-tomcat-8.5.47\bin&quot;;D:\Program Files\apache-tomcat-8.5.47\bin;D:\Program Files\apache-maven-3.5.4\bin\;D:\Program Files\apache-maven-3.5.4\bin;MAVAEN_HOMED:\Program Files\apache-maven-3.5.4\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\nodejs\node_global;D:\nodejs\node_global;D:\Program Files\nodejs\;D:\Program Files\mysql-5.7.27-winx64\bin;D:\Users\林朝明\AppData\Local\Programs\Python\Python38\Scripts\;D:\Users\林朝明\AppData\Local\Programs\Python\Python38\;D:\nodejs\node_global;D:\Program Files\nodejs\node_global;F:\Microsoft VS Code\bin;D:\IntelliJ IDEA 2019.1\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.202-b08"/>
+    <property name="java.ext.dirs" value="D:\Program Files\Java\jdk1.8.0_202\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="maven.repo.local" value="D:\repository\repo"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.myrpcdemo.rpc.AppTest" time="0.002"/>
+</testsuite>
